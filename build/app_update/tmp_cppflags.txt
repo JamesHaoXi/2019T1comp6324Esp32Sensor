@@ -1,0 +1,1 @@
+1 ble_azureIoT_gateway v3.3-beta1-183-g65d01336d-dirty
