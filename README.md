@@ -1,2 +1,2 @@
 # 2019T1comp6324Esp32Sensor
-
+The hardware design employs a ESP32-WROOM-32D from Espressif Systems. The ESP32-WROOM-32D is a low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth. The sensor application is developed using embedded C with RTOS to measure the voltage from photodiode and the battery to monitor the brightness and battery of the emergency light. It connected the emergency light to azure IoT hub through WIFI and internet. The protocol between the emergency light and the IoT hub is azure MQTT.
